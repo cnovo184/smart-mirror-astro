@@ -5,7 +5,7 @@
   --font-primary: 'Roboto Mono', monospace;
   --font-secondary: 'IBM Plex Mono', monospace;
   --color-text: #20EFD3;
-  --color-background: #1a1a1a;
+  --color-background: rgba(26, 26, 26, 0.7);
   --color-glow: #FFE37E;
   --color-secondarytext: #FF86F7;
 }
